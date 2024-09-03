@@ -1,7 +1,9 @@
 # Modern Cursors v2 for Windows 10/11
 ![imgs-18](https://github.com/user-attachments/assets/40a5049d-ac69-4954-a28d-a0413e35fa8b)</br>
+![imgs-8](https://github.com/user-attachments/assets/4fd4669d-7333-4ef9-803f-fa0b8b0c157b)
 
-Customize your Windows 10/11 with a better look and stylized cursor</br>
+Customize your Windows 10/11 with a better look and stylized cursor</br>![Uploading imgs-22.png…]()
+
 </br>
 <a href="https://ko-fi.com/s/370ecbb445"><img src="https://github.com/user-attachments/assets/91943d41-619b-4801-91b1-cd8b7efcd291" alt="kofi" width="160"/>
 <a href="https://www.deviantart.com/va5hone/art/Free-Modern-Cursors-v2-Light-and-Dark-958665741"><img src="https://github.com/user-attachments/assets/9d65ba59-cdcb-4b55-a3d5-86452e0536eb" alt="deviantart" width="160"/>
