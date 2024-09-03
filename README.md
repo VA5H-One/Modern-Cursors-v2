@@ -1,5 +1,4 @@
 # Modern Cursors v2 for Windows 10/11
-![imgs-18](https://github.com/user-attachments/assets/40a5049d-ac69-4954-a28d-a0413e35fa8b)</br>
 ![imgs-8](https://github.com/user-attachments/assets/4fd4669d-7333-4ef9-803f-fa0b8b0c157b)
 
 Customize your Windows 10/11 with a better look and stylized cursor</br>![Uploading imgs-22.png…]()
