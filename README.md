@@ -29,7 +29,7 @@ The cursors contain a light and dark version with the Windows 10 animations and 
 3. Click in `Install`
 
 ## Releases
-(This is a Free version, so I made a Plus _paid_ version that contain more cycle animation and differents color schemes)
+(This is a Free version, so I made a Plus _paid_ version that contain more cycle animation and differents color schemes)</br>
 <a href="https://ko-fi.com/s/6ef82b93af"><img src="https://github.com/user-attachments/assets/f99423e7-5b06-46f5-9835-c2ad5de7d332" alt="kofi" width="700"/></br>
 </br>
 <a href="https://ko-fi.com/s/6ef82b93af"><img src="https://github.com/user-attachments/assets/91943d41-619b-4801-91b1-cd8b7efcd291" alt="kofi" width="160"/>
