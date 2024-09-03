@@ -1,7 +1,7 @@
 # Modern Cursors v2 for Windows 10/11
-![imgs-8](https://github.com/user-attachments/assets/4fd4669d-7333-4ef9-803f-fa0b8b0c157b)
+![imgs-8](https://github.com/user-attachments/assets/e8eb7a5a-6fe0-4918-94a8-ff11e95bd5c5)
 
-Customize your Windows 10/11 with a better look and stylized cursor</br>![Uploading imgs-22.png…]()
+Customize your Windows 10/11 with a better look and stylized cursor</br>
 
 </br>
 <a href="https://ko-fi.com/s/370ecbb445"><img src="https://github.com/user-attachments/assets/91943d41-619b-4801-91b1-cd8b7efcd291" alt="kofi" width="160"/>
