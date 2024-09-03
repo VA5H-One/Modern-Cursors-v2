@@ -34,6 +34,9 @@ The cursors contain a light and dark version with the Windows 10 animations and 
 </br>
 <a href="https://ko-fi.com/s/6ef82b93af"><img src="https://github.com/user-attachments/assets/91943d41-619b-4801-91b1-cd8b7efcd291" alt="kofi" width="160"/>
 
+## Please support me
+- [Ko-fi](https://ko-fi.com/va5h_one)
+
 ## Changelog
 2.1.1 - Release Github page</br>
 2.1 - Various fixes
